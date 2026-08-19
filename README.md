@@ -18,7 +18,6 @@ CSS3: Styling, layout, and visual design.
 JavaScript (ES6+): Game logic, DOM manipulation, event listeners, and score management.
 
 📁 Project Structure
-Plaintext
-├── index.html    # Main HTML structure
-├── style.css     # Styling and layout
-└── app.js        # JavaScript game logic
+├── index.html    
+├── style.css     
+└── app.js        
